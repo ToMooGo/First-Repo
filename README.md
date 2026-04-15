@@ -1,79 +1,55 @@
-# First-Repo
-Hi there, I'm Tom
+# Hi there, I'm Tom 👋
 
-Theoretical physicist | Data Analyst | Simulation Specialist
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Xaysomvang%20Thammavong-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xaysomvang-thammavong)
+[![Email](https://img.shields.io/badge/Email-tom.physics.unideb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tom.physics.unideb@gmail.com)
+### Theoretical Physicist | Data Analyst | Simulation Specialist
 
 I am a Physics graduate with a passion for uncovering insights through mathematical modeling and computational analysis. My background in physics provides me with a rigorous foundation in statistics and uncertainty, which I apply to business data, operations, and risk assessment.
 
-Technical Toolkit
+---
 
-Category
+## 🛠️ Technical Toolkit
 
-Tools & Libraries
+| Category | Tools & Libraries |
+|---|---|
+| **Languages** | Python (Expert), C/C++, VBA |
+| **Data Analysis** | pandas, NumPy, Scilab, R/R studio |
+| **Visualization** | Matplotlib, Seaborn, Power BI, Octave, Excel Dashboards |
+| **Simulation** | Monte Carlo Methods, Open MC, Stochastic Modeling, NumPy-based simulations |
+| **Reporting** | Jupyter Notebooks, Markdown, Executive Summary Reports |
 
-Languages
+---
 
-Python (Expert),C/C++ , VBA
+## 🧪 Project Portfolios
 
-Data Analysis
+### 🎲 Monte Carlo & Risk Simulation
+*Harnessing the power of randomness to predict outcomes and manage uncertainty.*
 
-pandas, NumPy, Scilab, Octave
+- **Stochastic Risk Modeling:** Using Python to simulate 10,000+ scenarios , providing a probabilistic distribution of potential returns.
+- **Uncertainty Analysis:** Mathematical frameworks for error propagation and sensitivity analysis in complex systems.
 
-Visualization
+### 📈 Business & Operations Analytics
+*Translating raw data into actionable business intelligence.*
 
-Matplotlib, Seaborn, Power BI, Excel Dashboards
+- **KPI Dashboards (Excel):** Automated trackers using Pivot Tables and Power Pivot to visualize operational efficiency.
+- **Time Series Forecasting:** Analyzing historical trends to predict future demand/revenue with Python `statsmodels`.
+- **Supply Chain Optimization:** Using data-driven models to identify bottlenecks in logistical workflows.
 
-Simulation
+### 🐍 Python Data Notebooks
+*In-depth analytical explorations using the Python ecosystem.*
 
-Monte Carlo Methods, Stochastic Modeling, NumPy-based simulations
+- **Exploratory Data Analysis (EDA):** Visualizing hidden patterns in large datasets.
+- **Statistical Hypothesis Testing:** Applying p-values, t-tests, and Chi-square tests to validate business assumptions.
 
-Reporting
+---
 
-Jupyter Notebooks, Markdown, Executive Summary Reports
+## 📊 Analytical Philosophy
 
-Project Portfolios
-
-Monte Carlo & Risk Simulation
-
-Harnessing the power of randomness to predict outcomes and manage uncertainty.
-
-Stochastic Risk Modeling: Using Python to simulate 10,000+ scenarios for [Project Name], providing a probabilistic distribution of potential returns.
-
-Uncertainty Analysis: Mathematical frameworks for error propagation and sensitivity analysis in complex systems.
-
-Business & Operations Analytics
-
-Translating raw data into actionable business intelligence.
-
-KPI Dashboards (Excel): Automated trackers using Pivot Tables and Power Pivot to visualize operational efficiency.
-
-Time Series Forecasting: Analyzing historical trends to predict future demand/revenue with Python statsmodels.
-
-Supply Chain Optimization: Using data-driven models to identify bottlenecks in logistical workflows.
-
-Python Data Notebooks
-
-In-depth analytical explorations using the Python ecosystem.
-
-Exploratory Data Analysis (EDA): Visualizing hidden patterns in large datasets.
-
-Statistical Hypothesis Testing: Applying p-values, t-tests, and Chi-square tests to validate business assumptions.
-
-Analytical Philosophy
-
-Coming from a physics background, I view data through the lens of first principles. I don't just run models; I seek to understand the underlying mechanics of the system—whether it's a particle in a box or a customer in a sales funnel.
-
+Coming from a physics background, I view data through the lens of **first principles**. I don't just run models ,but I seek to understand the underlying mechanics of the system, whether it's a particle in a box or a customer in a sales funnel.
+> I believe that **quantifying uncertainty** is just as important as predicting the mean.
 $$\sigma = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (x_i - \bar{x})^2}$$
 
-I believe that quantifying uncertainty is just as important as predicting the mean.
 
-///////////////////////////////////////////////////////////////////////////////////////
-Connect with me
+> Example: this is the Buffon’s needle Experiement to Determining the value of π
 
-LinkedIn: Xaysomvang Thammavong
-
-Email: tom.physics.unideb@gmail.com
-
-Fun Fact
-
-I often use Monte Carlo simulations to optimize my daily coffee brewing parameters! Lol
+<img width="1300" height="700" alt="buffon_needle_pi" src="https://github.com/user-attachments/assets/24701567-fd2d-4393-b80c-d870ccb0a82d" />
